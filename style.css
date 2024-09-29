@@ -1,0 +1,43 @@
+body {
+  background-color: hsl(0, 0%, 8%);
+  margin: 0;
+  padding: 0;
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.box {
+  width: 400px;
+  height: 600px;
+  /* border: 1px solid white; */
+  border-radius: 10px;
+  background-color: hsl(0, 0%, 12%);
+  position: fixed;
+  margin: auto;
+  inset: 0;
+}
+.body {
+  width: 320px;
+  height: 520px;
+  /* border: 1px solid red; */
+  position: fixed;
+  margin: auto;
+  inset: 0;
+  text-align: center;
+}
+img {
+  border-radius: 100%;
+  width: 100px;
+}
+.green {
+  color: hsl(75, 94%, 57%);
+}
+.txt {
+  font-size: 14px;
+}
+.flex {
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 10px;
+  padding: 10px;
+}
